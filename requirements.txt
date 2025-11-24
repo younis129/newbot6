@@ -1,0 +1,10 @@
+python-telegram-bot==21.0.1
+googletrans==4.0.0-rc1
+Pillow==10.1.0
+# Optional (only if you add features later):
+# easyocr
+# torch
+# transformers
+# opencv-python
+# moviepy
+# librosa
